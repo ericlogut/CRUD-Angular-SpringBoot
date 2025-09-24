@@ -36,19 +36,19 @@ El repositorio está organizado en dos directorios principales:
 
 ### Frontend (Angular)
 
-Navega al directorio frontend/.
+1. Navega al directorio frontend/.
 
-Instala las dependencias necesarias:
+2. Instala las dependencias necesarias:
 
     ```bash
     npm install
 
-Inicia el servidor de desarrollo:
+3. Inicia el servidor de desarrollo:
 
     ```bash
     ng serve
 
-La aplicación estará disponible en http://localhost:4200.
+4. La aplicación estará disponible en http://localhost:4200.
 
 ---
 
