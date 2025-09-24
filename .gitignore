@@ -1,0 +1,45 @@
+# =====================
+# Angular / Node.js
+# =====================
+/dist/
+/out-tsc/
+/tmp/
+/coverage/
+/e2e/test-output/
+/.angular/
+/node_modules/
+/package-lock.json
+/yarn.lock
+/.env
+/.angular-cli.json
+/.ng/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =====================
+# Spring Boot / Java
+# =====================
+backend/springboot-backend/target/
+*.class
+*.jar
+*.war
+*.iml
+*.log
+
+# =====================
+# IDEs
+# =====================
+.idea/
+.vscode/
+*.classpath
+*.project
+*.settings/
+*.factorypath
+
+# =====================
+# OS specific
+# =====================
+.DS_Store
+Thumbs.db

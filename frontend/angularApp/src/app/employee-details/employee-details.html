@@ -1,0 +1,7 @@
+<h3>View Employee Details</h3>
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">{{ employee.firstName }} {{ employee.lastName }}</h5>
+    <p class="card-text"><strong>Email:</strong> {{ employee.emailId }}</p>
+    <a class="btn btn-primary" [routerLink]="['/employees']">Back to Employee List</a>
+  </div>
